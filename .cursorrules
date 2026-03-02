@@ -1,0 +1,6 @@
+# Cursor Composer / AI Pair Programmer Context Rules
+# 1. Always use Python 3.9+ syntax and include full type hints.
+# 2. Write Google-style docstrings for all functions and classes.
+# 3. Follow PEP 8 style guidelines implicitly.
+# 4. Place application logic strictly in `src/` and all tests in `tests/`.
+# 5. Prioritize writing modular, pure functions whenever possible to simplify testing.
